@@ -1,0 +1,7 @@
+*.swp
+bin
+lib
+include
+src
+*.pyc
+*.db
